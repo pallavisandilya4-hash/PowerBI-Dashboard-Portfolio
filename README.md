@@ -2,7 +2,7 @@
 
 Welcome to my Data Analytics & Dashboard Portfolio.
 
-This repository contains interactive dashboard projects created using Power BI, Excel, SQL, and Python for data analysis and visualization.
+This repository is a collection of my dashboard projects created using Power BI and Microsoft Excel. Each project focuses on transforming raw data into interactive dashboards and meaningful business insights through data visualization and analytical storytelling.
 
 ---
 
@@ -38,14 +38,21 @@ https://github.com/pallavisandilya4-hash/COFFEE_SALES-DASHBOARD
 
 ---
 
-# Tools & Technologies
-- Power BI
-- Microsoft Excel
-- SQL
-- Python
-- Pandas
-- NumPy
-- Data Visualization
+# Skills Demonstrated
+
+* Dashboard Development
+* Data Visualization
+* Business Intelligence
+* KPI Reporting
+* Data Cleaning
+* Insight Generation
+* Analytical Thinking
 
 ---
+
+# Future Goals
+
+* Build more advanced interactive dashboards
+* Explore Tableau and SQL integration
+* Improve dashboard storytelling and UI design
 
