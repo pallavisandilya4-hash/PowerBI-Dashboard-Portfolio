@@ -17,8 +17,8 @@ https://github.com/pallavisandilya4-hash/NETFLIX-PowerBI-DASHBOARD
 ## 2. BigBasket Sales Dashboard
 Sales and product analysis dashboard built using Power BI to explore pricing, discounts, ratings, and category-wise insights.
 
-🔗 Project Link:  
-Paste your repo link here
+🔗 Project Link: 
+https://github.com/pallavisandilya4-hash/BigBasket-Sales-Analytics-Dashboard
 
 ---
 
@@ -26,8 +26,7 @@ Paste your repo link here
 Real estate analytics dashboard analyzing property prices, locations, and property trends.
 
 🔗 Project Link:  
-Paste your repo link here
-
+https://github.com/pallavisandilya4-hash/MagicBricks-Real-Estate-Analytics-Dashboard
 ---
 
 ## 4. Excel Sales Dashboard
