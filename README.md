@@ -25,8 +25,9 @@ https://github.com/pallavisandilya4-hash/BigBasket-Sales-Analytics-Dashboard
 ## 3. Magic Bricks Dashboard
 Real estate analytics dashboard analyzing property prices, locations, and property trends.
 
-🔗 Project Link:  
+🔗Project Link:  
 https://github.com/pallavisandilya4-hash/MagicBricks-Real-Estate-Analytics-Dashboard
+
 ---
 
 ## 4. Excel Sales Dashboard
