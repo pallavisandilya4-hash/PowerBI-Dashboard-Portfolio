@@ -17,7 +17,7 @@ https://github.com/pallavisandilya4-hash/NETFLIX-PowerBI-DASHBOARD
 ## 2. BigBasket Sales Dashboard
 Sales and product analysis dashboard built using Power BI to explore pricing, discounts, ratings, and category-wise insights.
 
-🔗 Project Link: 
+🔗 Project Link:
 https://github.com/pallavisandilya4-hash/BigBasket-Sales-Analytics-Dashboard
 
 ---
